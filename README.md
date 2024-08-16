@@ -2,7 +2,7 @@
 
 meu nome e heloisa machado
 
-- eu estou estudando na [alura] https://www.alura.com.br/
+- eu estou estudando na [alura] (https://www.alura.com.br/)
 - estou me desenvolvendo na linguagem javascripth
 - utilizo esse espaço para organização e compartilhamentos dos meus projetos desenvolvidos
 
